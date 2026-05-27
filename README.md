@@ -32,24 +32,6 @@ host acquisition and market growth strategy.
 
 ---
 
-## 📁 Repository Structure
-
-tokyo-airbnb-analysis/
-│
-├── data/
-│   └── tokyo_listings_cleaned.csv
-│
-├── sql/
-│   └── cleaning_queries.sql
-│
-├── screenshots/
-│   ├── page1.png
-│   └── page2.png
-│
-└── README.md
-
----
-
 ## 🛠️ Tools Used
 
 - **Power BI Desktop** — dashboard and visualisation
