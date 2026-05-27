@@ -1,7 +1,7 @@
 # tokyo-airbnb-analysis
 
 Exploratory data analysis of 25,381 Airbnb listings across 
-47 Tokyo neighbourhoods using Power BI and SQL.
+47 Tokyo neighbourhoods using Power BI, SQL, and Excel.
 
 ---
 
