@@ -5,7 +5,7 @@ Exploratory data analysis of 25,381 Airbnb listings across
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Market Overview](screenshots/page1.png)
 ![Supply and Demand](screenshots/page2.png)
