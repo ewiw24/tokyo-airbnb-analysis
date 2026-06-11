@@ -12,7 +12,7 @@ Exploratory data analysis of 25,381 Airbnb listings across
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 Identify supply and demand imbalances across Tokyo 
 neighbourhoods to surface actionable opportunities for 
@@ -20,7 +20,7 @@ host acquisition and market growth strategy.
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 | Finding | Detail |
 |---|---|
@@ -32,7 +32,7 @@ host acquisition and market growth strategy.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Power BI Desktop** — dashboard and visualisation
 - **Power Query** — data cleaning and transformation
@@ -41,7 +41,7 @@ host acquisition and market growth strategy.
 
 ---
 
-## 📐 Methodology
+## Methodology
 
 1. Data sourced from Inside Airbnb
 2. Cleaned in Power Query — fixed data types, 
@@ -55,7 +55,7 @@ host acquisition and market growth strategy.
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - `reviews_per_month` used as demand proxy — 
   actual booking data not publicly available
@@ -65,12 +65,12 @@ host acquisition and market growth strategy.
 
 ---
 
-## 📂 Data Source
+## Data Source
 
 [Inside Airbnb — Tokyo](https://insideairbnb.com/tokyo)
 
 ---
 
-## 🔗 Full Write-up
+## Full Write-up
 
 [View on Notion](paste-your-notion-link-here)
